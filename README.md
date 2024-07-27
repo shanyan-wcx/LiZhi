@@ -7,6 +7,9 @@
 个人对南京市民李先生发行专辑的整理，全部无损音质，Flac格式，附带标签、封面、歌词。
 如有遗漏或错误，欢迎提交issues。如有更好的资源，欢迎提交PR，不会提交PR的也可以开issues。
 
-链接：https://pan.baidu.com/s/1jMsfB2mif7Id60FoJZDHaQ?pwd=njsm 
+通过百度网盘分享的文件：南京市民.zip
+链接：https://pan.baidu.com/s/1SNAyxmfwreN3j_zSX1CDig?pwd=njsm 
 提取码：njsm 
 --来自百度网盘超级会员V5的分享
+
+解压后修改后缀为zip。
